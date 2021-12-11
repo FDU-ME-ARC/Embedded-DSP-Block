@@ -1,0 +1,3 @@
+[submodule "APIR-DSP"]
+	path = APIR-DSP
+	url = https://github.com/Dai-dirk/APIR-DSP.git
